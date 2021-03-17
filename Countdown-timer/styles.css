@@ -131,11 +131,11 @@ p{
     background:  hsl(235, 16%, 14%);
 }
 
-#circle1{
+#left{
     transform: translateX(-6px);
 }
 
-#circle2{
+#right{
     transform: translateX(6px);
 }
 
@@ -196,7 +196,6 @@ p{
     #hills{
         width: 1000px;
         height: 200px;
-        transform: translateX(100px);
     }
 
     p{
@@ -278,11 +277,11 @@ p{
         background:  hsl(235, 16%, 14%);
     }
 
-    #circle1{
+    #left{
         transform: translateX(-5px);
     }
 
-    #circle2{
+    #right{
         transform: translateX(5px);
     }
     
